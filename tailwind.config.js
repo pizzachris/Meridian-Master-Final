@@ -1,1 +1,0 @@
-// Functional content for tailwind.config.js
