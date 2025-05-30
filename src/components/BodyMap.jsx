@@ -1,1 +1,0 @@
-// Functional content for src/components/BodyMap.jsx
