@@ -1,0 +1,1 @@
+// Functional content for src/main.jsx

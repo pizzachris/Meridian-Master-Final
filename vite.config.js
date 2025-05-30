@@ -1,0 +1,1 @@
+// Functional content for vite.config.js
